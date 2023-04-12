@@ -135,12 +135,7 @@ namespace _5._6
         
         
         }
-        static void Data()
-        {
-            Console.WriteLine("Ваше имя: ");
-        
-        
-        }
+       
     }   
     
 }
